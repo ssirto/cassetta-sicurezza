@@ -1,0 +1,5 @@
+C:\Users\nicol\source\repos\cassettasicurezza\obj\Debug\cassettasicurezza.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\cassettasicurezza\obj\Debug\cassettasicurezza.Form1.resources
+C:\Users\nicol\source\repos\cassettasicurezza\obj\Debug\cassettasicurezza.Properties.Resources.resources
+C:\Users\nicol\source\repos\cassettasicurezza\obj\Debug\cassettasicurezza.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\cassettasicurezza\obj\Debug\cassettasicurezza.csproj.CoreCompileInputs.cache
